@@ -1,0 +1,7 @@
+.ccolor {
+    background-color: cyan;
+}
+
+.ccolor:hover {
+    background-color: purple;
+}
